@@ -1,0 +1,2 @@
+hello = "Bruh"
+print(hello)
